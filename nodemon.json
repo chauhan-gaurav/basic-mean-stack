@@ -1,0 +1,6 @@
+{
+  "env": {
+    "MONGO_ATLAS" : "YOUR_MONGODB_URL",
+     "JWT_KEY" : "secret_this_should_longer_than_this"
+  }
+}
